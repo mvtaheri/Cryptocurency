@@ -73,7 +73,7 @@ dependencies {
     implementation(libs.accompanist)
     implementation(libs.coroutine)
     implementation(libs.coroutine.ktx)
-    implementation(libs.dagger.hilt.lifecycle)
+//    implementation(libs.dagger.hilt.lifecycle)
     implementation(libs.dagger.hilt.navigation)
     implementation(libs.hilt.android)
     kapt(libs.hilt.android.compiler)
